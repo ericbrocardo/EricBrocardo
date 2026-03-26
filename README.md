@@ -1,16 +1,33 @@
-## Hi there 👋
+## Ola, eu sou Eric Brocardo
 
-<!--
-**ericbrocardo/EricBrocardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estudando: Java
 
-Here are some ideas to get you started:
+Me chamo Eric Brocardo Freire, tenho 22 anos e sou natural do Parana. Concluí o ensino médio no IFSC, com o curso técnico em eletrotecnica. Atualmente, estou cursando Sistemas de Informação na Unisul.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Linguagens e Tecnologias
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=EricBrocardo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+
+
+</p>
